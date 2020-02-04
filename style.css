@@ -1,0 +1,96 @@
+.logo{
+    position: relative;
+    text-align: center;
+    width: 300px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #FC766AFF ;
+    margin-left: 800px;
+}
+#MyExperiance{
+    color:rgb(255,255,255);
+}
+#Events{
+    color:rgb(255, 255, 255);
+}
+#Location{
+    color:rgb(255,255,255);
+}
+#gallery{
+    color:rgb(255,255,255);
+}
+body{
+    background-color : #00203FFF;
+
+}
+.box{
+    
+    text-align: center;
+    background-color:#5B84B1FF;
+    padding-left: 40px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.grid{
+    display: flex;
+    width: 700px;
+    background-color: #05445E;
+    padding-left: 30px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 60px;
+}
+.grid1{
+    display: flex;
+    width: 700px;
+    background-color: #ffb347;
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 980px;
+    margin-top: 15px;
+}
+.grid2{
+    display: flex;
+    width: 700px;
+    background-color: #77dd77;
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 820px;
+    margin: auto;
+}
+.img {
+    text-align: center;
+    background-color:#a8c1c8 ;
+    border: solid;
+    border-color:#a8d5baff ;
+    border-width: 30px;
+}
+.gallery{
+    color: ivory;
+    
+}
+.item1:hover img{
+    opacity:0.6;
+}
+.item2:hover img{
+    opacity:0.6;
+}
+.item3:hover img{
+    opacity:0.6;
+}
+.item4:hover img{
+    opacity:0.6;
+}
+.item5:hover img{
+    opacity:0.6;
+}
+.item6:hover img{
+    opacity:0.6;
+}
+
